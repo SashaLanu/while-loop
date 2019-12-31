@@ -1,0 +1,35 @@
+import turtle
+
+#a = 5
+#print(a)
+
+#b = "Hello"
+#print(b)
+
+#credit_card = 4444333322221111
+
+#print(credit_card)
+
+# square
+qazi_turtle = turtle.Turtle()
+
+
+#def square():
+ # qazi_turtle.forward(100)
+  #qazi_turtle.right(90)
+  #qazi_turtle.forward(100)
+  #qazi_turtle.right(90)
+  #qazi_turtle.forward(100)
+  #qazi_turtle.right(90)
+  #qazi_turtle.forward(100)
+  
+#square()
+#qazi_turtle.forward(200)
+#square()
+
+#elephant_weight = 3000
+#ant_weight = 0.1
+
+qazi = 'happy'
+while qazi == 'happy':
+  qazi_turtle.forward(10)
